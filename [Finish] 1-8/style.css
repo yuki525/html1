@@ -1,0 +1,46 @@
+/* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main{
+  width:960px;
+  margin:50px auto;
+
+
+
+}
+.a{
+  padding:20px;
+  width:960px;
+  background-color:slategrey
+  
+}
+.b{
+  padding:20px;
+  width:960px;
+}
+.c{
+  padding:20px;
+  width:960px;
+  background-color:slategrey
+}
+.d{
+  padding:20px;
+  width:960px;
+}
+.e{
+  padding:20px;
+  width:960px;
+  background-color:slategrey
+}
+.f{
+  padding:20px;
+  width:960px;
+}
+.g{
+  padding:20px;
+  width:960px;
+  background-color:slategrey
+}
